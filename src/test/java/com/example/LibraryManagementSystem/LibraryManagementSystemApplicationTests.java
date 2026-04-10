@@ -8,6 +8,7 @@ class LibraryManagementSystemApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//loads the contet
 	}
 
 }
